@@ -1,3 +1,7 @@
-# Movie-Trailer-Website
+#Movie-Trailer-Website
 
-Open and run the entertainment_center.py file
+##Description
+My first project in the Full Stack Web Developer Nanodegree
+
+##Usage
+Open and run the _entertainment_center.py_ file
