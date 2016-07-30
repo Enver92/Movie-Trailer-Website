@@ -20,9 +20,8 @@ star_wars = media.Movie("Star Wars: The Force Awakens", "The next episode of the
 x_men = media.Movie("X-Men: Apocalypse", "Another X-Men movie",
                     "http://t3.gstatic.com/images?q=tbn:ANd9GcTOUtd-BQZW_VT8WrTaVzqfiV6YVC3tFxmKZwl0MFKLnb51xqtl",
                     "https://www.youtube.com/watch?v=COvnHv42T-A")
-movies = [toy_story, avatar, batman_vs_superman, civil_war, star_wars, x_men]
+movies = [toy_story, avatar, batman_vs_superman, civil_war, star_wars, x_men] #create a list of all Movie objects
 
-fresh_tomatoes.open_movies_page(movies)
-
+fresh_tomatoes.open_movies_page(movies)                                       #open a Movie Trailer Site
 
                   
